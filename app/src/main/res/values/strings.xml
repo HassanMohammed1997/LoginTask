@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Task</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="email_error">Enter your email</string>
+    <string name="password_error">Enter your password</string>
+    <string name="internet_connection_error">No internet connection, please connect to Wifi and try again.</string>
+</resources>
